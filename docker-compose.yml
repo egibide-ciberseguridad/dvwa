@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+
+  # https://github.com/digininja/DVWA
+  dvwa:
+    image: vulnerables/web-dvwa
+    container_name: dvwa
+    expose:
+      - 80
+    ports:
+      - "5000:80"
