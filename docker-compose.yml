@@ -10,3 +10,8 @@ services:
       - 80
     ports:
       - "5000:80"
+    networks:
+      - ciber
+
+networks:
+  ciber:
