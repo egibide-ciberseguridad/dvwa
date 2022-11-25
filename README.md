@@ -1,6 +1,6 @@
 # dvwa
 
-[Damn Vulnerable Web Application](http://www.dvwa.co.uk).
+[Damn Vulnerable Web Application](https://github.com/digininja/DVWA).
 
 Arrancar el servicio con `docker-compose up -d` y acceder al [sitio web](http://localhost:5000).
 
