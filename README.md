@@ -2,7 +2,7 @@
 
 [Damn Vulnerable Web Application](https://github.com/digininja/DVWA).
 
-Arrancar el servicio con `docker-compose up -d` y acceder al [sitio web](http://localhost:5000).
+Arrancar el servicio con `make start` y acceder al [sitio web](http://localhost:5000).
 
 La primera vez que se inicia sesión admite cualquier usuario y contraseña para instalar la base de datos.
 
