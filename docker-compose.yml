@@ -6,6 +6,7 @@ services:
   dvwa:
     image: vulnerables/web-dvwa
     container_name: dvwa
+    platform: linux/amd64
     expose:
       - 80
     ports:
